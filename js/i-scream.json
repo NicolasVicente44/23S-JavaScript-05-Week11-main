@@ -40,22 +40,23 @@
             "calories": 300,
             "type": "ice-cream",
             "ingredients": [
-                "sprinkles",
-                "blue berry chunks",
-                "vanilla blueberry base"
+              "sprinkles",
+              "blue berry chunks",
+              "vanilla blueberry base"
             ],
-            "image": "https://priyansht.github.io/23S-JavaScript-05-Week11/images/strawberry-sprinkle.svg"
-        },
-        {
+            "image": "https://nicolasvicente44.github.io/23S-JavaScript-05-Week11-main/images/ice-cream-xtra1.svg"
+          },
+          {
             "name": "Cookies and Cream",
             "calories": 500,
             "type": "ice-cream",
             "ingredients": [
-                "chocolate syrup",
-                "cookie chunks",
-                "chocolate chunks"
+              "chocolate syrup",
+              "cookie chunks",
+              "chocolate chunks"
             ],
-            "image": "https://priyansht.github.io/23S-JavaScript-05-Week11/images/strawberry-sprinkle.svg"
-        }
+            "image": "https://nicolasvicente44.github.io/23S-JavaScript-05-Week11-main/images/ice-cream-xtra2.svg"
+          }
+          
     ]
 }
